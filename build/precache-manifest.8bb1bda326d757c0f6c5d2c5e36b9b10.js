@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/media/twitter-logo.5c97ee2a.svg"
   },
   {
-    "revision": "fe478a4ba13e42c9462c2a1745ac51f3",
+    "revision": "7d52e5a7b7faa82b224c6f9e245d900a",
     "url": "/index.html"
   }
 ];
